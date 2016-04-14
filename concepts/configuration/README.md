@@ -1,4 +1,4 @@
-# <img src="/assets/img/icons/wrench.svg" alt="Configuration" width="100" height="100" /> Configuration
+# <img src="../../assets/img/icons/wrench.svg" alt="Configuration" width="100" height="100" /> Configuration
 ---
 ## How to configure Trails
 
