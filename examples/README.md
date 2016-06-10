@@ -1,4 +1,4 @@
-<img width="250px" align="right" src="../assets/img/examples/search-icon-light-grey.svg">
+<img width="250px" align="right" src="../assets/img/examples/search-icon.png">
 # Examples
 ## Introduction
 
