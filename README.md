@@ -31,7 +31,7 @@ The following list link to those different translations of the Trails documentat
   * [Anatomy](/anatomy/README.md)
   * [Concepts](/concepts/README.md)
   * Core Components
-  * Examples
+  * [Examples](/examples/README.md)
   * [User Guides](/guides/README.md)
 * Trailpack Docs
   * [Official Trailpack](/trailpack/official/README.md)
